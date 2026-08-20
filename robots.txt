@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afeigu.github.io/mitaoshiping/sitemap.xml
